@@ -4,7 +4,7 @@
    Plugin URI: https://surpriseazwebservices.com/wordpress-plugins/wordpress-debug-info-plugin/
    Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VFWNLX2NQGQN
    Description: A plugin to display your server's PHP info and WordPress environment data for debugging purposes.
-   Version: 1.3.5
+   Version: 1.3.6
    Author: Scott DeLuzio
    Author URI: https://surpriseazwebservices.com
    License: GPL2
