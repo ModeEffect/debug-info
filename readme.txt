@@ -92,5 +92,5 @@ Sure! Once you have translated it, let me know and I'll be sure to get your tran
 * Initial release.
 
 == Upgrade Notice ==
-= 1.3.6 =
-* Minor update
+= 1.3.7 =
+* Updated readme and contact info.
