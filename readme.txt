@@ -56,6 +56,7 @@ Sure! Once you have translated it, let me know and I'll be sure to get your tran
 
 == Changelog ==
 = 1.3.8 =
+* Moved plugin menu from under Dashboard to under Tools.
 * Removed unnecessary links from report page.
 * Updated code to better best practices.
 * Updated active plugin list to list plugin name, and not the file path.
@@ -101,6 +102,7 @@ Sure! Once you have translated it, let me know and I'll be sure to get your tran
 
 == Upgrade Notice ==
 = 1.3.8 =
+* Moved plugin menu from under Dashboard to under Tools.
 * Removed unnecessary links from report page.
 * Updated code to better best practices.
 * Updated active plugin list to list plugin name, and not the file path.

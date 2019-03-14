@@ -35,12 +35,12 @@ add_action('init', 'debug_info_lang');
 /* Info Page */
 
 // Hook for adding admin menus
-add_action('admin_menu', 'debug_info_add_dashboard_page');
+add_action('admin_menu', 'debug_info_add_submenu_page');
 
 // action function for above hook
-function debug_info_add_dashboard_page() {
-	// Add a new submenu under Settings:
-	add_dashboard_page('Debug Info','Debug Info', 'manage_options', 'oizuleddebuginfo', 'debug_info_render_dashboard_page');
+function debug_info_add_submenu_page() {
+	// Add a new submenu under Tools:
+	add_submenu_page( 'tools.php', __( 'Debug Info', 'debug-info' ), __( 'Debug Info', 'debug-info' ), 'manage_options', 'debug-info', 'debug_info_render_dashboard_page');
 
 }
 
