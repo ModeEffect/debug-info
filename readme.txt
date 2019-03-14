@@ -61,6 +61,7 @@ Sure! Once you have translated it, let me know and I'll be sure to get your tran
 * Updated active plugin list to list plugin name, and not the file path.
 * Added plugin version number to the list of active plugins.
 * Added a link to the plugin URI if available.
+* Added translatable strings and updated POT file.
 
 = 1.3.7 =
 * Updated readme and contact info.
@@ -105,3 +106,4 @@ Sure! Once you have translated it, let me know and I'll be sure to get your tran
 * Updated active plugin list to list plugin name, and not the file path.
 * Added plugin version number to the list of active plugins.
 * Added a link to the plugin URI if available.
+* Added translatable strings and updated POT file.
