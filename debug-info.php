@@ -4,7 +4,9 @@
    Plugin URI: https://amplifyplugins.com
    Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VFWNLX2NQGQN
    Description: A plugin to display your server's PHP info and WordPress environment data for debugging purposes.
-   Version: 1.3.10
+   Tested up to: 6.0.1
+   Version: 1.3.11
+   WC tested up to: 6.7.0
    Author: AMP-MODE
    Author URI: https://amplifyplugins.com
    License: GPL2
