@@ -3,8 +3,8 @@ Contributors: scott.deluzio, ampmode
 Tags: database, php, memory, version, wordpress, admin, debug, plugin, theme
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5VFWNLX2NQGQN
 Requires at least: 3.4.0
-Tested up to: 5.8.1
-Stable tag: 1.3.10
+Tested up to: 6.0.1
+Stable tag: 1.3.11
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,6 +55,10 @@ Sure! Once you have translated it, let me know and I'll be sure to get your tran
 1. Debug Info screenshot-1.png
 
 == Changelog ==
+= 1.3.11 =
+* Added WP tested up to version.
+* Added Woocommerce tested up to version.
+
 = 1.3.10 =
 * Updated tested up to version.
 * Added Contributors.
@@ -108,6 +112,6 @@ Sure! Once you have translated it, let me know and I'll be sure to get your tran
 * Initial release.
 
 == Upgrade Notice ==
-= 1.3.10 =
-* Updated tested up to version.
-* Added Contributors.
+= 1.3.11 =
+* Added WP tested up to version.
+* Added Woocommerce tested up to version.
